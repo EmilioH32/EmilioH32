@@ -3,7 +3,7 @@
 👨‍🎓 Bachelors of Computer Science from Florida Polytechnic University<br/>
 🤖 Machine Learning<br/>
 🧠 Deep Learning<br/>
-📑 Generative AI (Transformers/LLMs)<br/>
+📑 Generative AI (Transformers/LLMs/Agents)<br/>
 🥼 Former Student Research Assistant<br/>
 
 
